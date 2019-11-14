@@ -13,6 +13,7 @@ const categories: ICategories[] = [
   { id: 7, name: 'Personal Development' },
   { id: 8, name: 'Marketing' },
   { id: 9, name: 'Health&Fitness' },
+  { id: 10, name: 'Traveling' },
 ];
 
 export { categories as default };
